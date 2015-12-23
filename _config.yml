@@ -1,0 +1,28 @@
+name: malone
+favicon: null
+layout_spectrum: 0.4682463966310024
+typography_spectrum: 0.25576866138726473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7759794006124139
+  lightness: 0.3795137156266719
+  saturation: 0.8443952044472098
+  rhythmicContrast: 0.6601568583864719
+purpose: []
